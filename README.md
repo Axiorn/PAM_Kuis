@@ -8,14 +8,12 @@
 
 
 | Tampilan Home Page                   | Tampilan Profile                     | 
-| ------------------------------------ | ------------------------------------ | 
-| ![Home](assets/screenshots/Homepage.jpg) | ![Kuis](assets/screenshots/ProfilePage.jpg) | 
+| ![Homepage](https://github.com/user-attachments/assets/65d365d4-1d55-4913-9b46-4d9f40539aeb) | ![ProfilePage](https://github.com/user-attachments/assets/f8a946c9-99f1-4e7f-862c-f41addef0276) | 
 | Tampilan Konversi WIB                | Tampilan Cek Hari                    | 
-| ------------------------------------ | ------------------------------------ | 
-| ![Home](assets/screenshots/KonversiWIB.jpg) | ![Kuis](assets/screenshots/CekHari.jpg) | 
+| ![KonversiWIB](https://github.com/user-attachments/assets/47745b7c-80c7-4c27-adf5-e68d1c1abda4) | ![CekHari](https://github.com/user-attachments/assets/f5ebb716-d566-4ae0-b64e-dd28a086d0d4) | 
 | Tampilan Hitung Piramida             | 
-| ------------------------------------ | 
-| ![Home](assets/screenshots/HitungPiramida.jpg) | 
+| ![HitungPiramida](https://github.com/user-attachments/assets/cd12e6b1-f6b3-4146-bb7c-4509ede390e3) | 
+
 
 ---
 
