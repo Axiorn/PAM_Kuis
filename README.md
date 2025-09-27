@@ -8,7 +8,7 @@
 
 
 | Tampilan Home Page                   | Tampilan Profile                     | 
-| ![Homepage](https://github.com/user-attachments/assets/65d365d4-1d55-4913-9b46-4d9f40539aeb) | ![ProfilePage](https://github.com/user-attachments/assets/f8a946c9-99f1-4e7f-862c-f41addef0276) | 
+| <img src="https://github.com/user-attachments/assets/65d365d4-1d55-4913-9b46-4d9f40539aeb" alt="Homepage" width="300"/> | <img src="[https://github.com/user-attachments/assets/65d365d4-1d55-4913-9b46-4d9f40539aeb](https://github.com/user-attachments/assets/f8a946c9-99f1-4e7f-862c-f41addef0276)" alt="Homepage" width="300"/> | 
 | Tampilan Konversi WIB                | Tampilan Cek Hari                    | 
 | ![KonversiWIB](https://github.com/user-attachments/assets/47745b7c-80c7-4c27-adf5-e68d1c1abda4) | ![CekHari](https://github.com/user-attachments/assets/f5ebb716-d566-4ae0-b64e-dd28a086d0d4) | 
 | Tampilan Hitung Piramida             | 
