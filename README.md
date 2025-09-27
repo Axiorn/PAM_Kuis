@@ -1,68 +1,32 @@
 # 🌟 Kuis PAM - Aplikasi Mobile
 
-Kuis PAM adalah aplikasi mobile yang dikembangkan menggunakan **Flutter** untuk mendukung pembelajaran dan latihan Kuis pada mata kuliah **Pemrograman Aplikasi Mobile (PAM)**. Aplikasi ini dirancang untuk membantu mahasiswa memahami materi PAM melalui kuis interaktif dan responsif.
-
-📦 **Instalasi & Deployment**
-
-Sebelum memulai, pastikan Anda telah menginstal perangkat lunak berikut:
-
-* **Git** – untuk meng-clone repository dari GitHub
-* **Flutter SDK** – untuk membangun dan menjalankan aplikasi Flutter
-* **Code Editor** – disarankan menggunakan Visual Studio Code
-* **Android Studio / Emulator / Device** – untuk menjalankan aplikasi di Android/iOS
+**Kuis PAM** adalah aplikasi mobile sederhana yang dibuat untuk kebutuhan pembelajaran mata kuliah **Pemrograman Aplikasi Mobile (PAM)**. Aplikasi ini berisi latihan kuis interaktif yang membantu mahasiswa memahami materi PAM dengan cara yang lebih menyenangkan.
 
 ---
 
-## 1. Clone Repository
+## 📱 Preview Aplikasi
 
-Clone repository proyek ke komputer lokal Anda:
 
-```bash
-git clone https://github.com/username/kuis-pam.git
-cd kuis-pam
-```
-
-Buka folder proyek menggunakan **Visual Studio Code** atau editor favorit Anda.
-
----
-
-## 2. Instalasi Dependency
-
-Instal semua dependency Flutter dengan menjalankan:
-
-```bash
-flutter pub get
-```
-
-Perintah ini akan mengunduh semua package yang dibutuhkan oleh proyek.
+| Tampilan Home Page                   | Tampilan Profile                     | 
+| ------------------------------------ | ------------------------------------ | 
+| ![Home](assets/screenshots/Homepage.jpg) | ![Kuis](assets/screenshots/ProfilePage.jpg) | 
+| Tampilan Konversi WIB                | Tampilan Cek Hari                    | 
+| ------------------------------------ | ------------------------------------ | 
+| ![Home](assets/screenshots/KonversiWIB.jpg) | ![Kuis](assets/screenshots/CekHari.jpg) | 
+| Tampilan Hitung Piramida             | 
+| ------------------------------------ | 
+| ![Home](assets/screenshots/HitungPiramida.jpg) | 
 
 ---
 
-## 3. Menjalankan Aplikasi
+## 🎯 Tujuan Proyek
 
-Jalankan aplikasi di emulator atau device fisik dengan perintah:
-
-```bash
-flutter run
-```
-
-Jika Anda memiliki lebih dari satu device atau emulator, Anda dapat menentukan device tertentu dengan:
-
-```bash
-flutter run -d <device_id>
-```
+* Mendukung pembelajaran interaktif pada mata kuliah PAM
+* Memberikan latihan kuis sederhana berbasis mobile
+* Sebagai media praktek pengembangan aplikasi Flutter
 
 ---
 
-## 4. Struktur Proyek
+## 👨‍💻 Catatan
 
-* **lib/** – folder utama berisi semua source code Flutter
-* **assets/** – folder untuk menyimpan gambar, ikon, dan file statis lain
-* **pubspec.yaml** – file konfigurasi dependency Flutter
-
----
-
-## 5. Catatan
-
-* Pastikan **Flutter SDK** sudah terpasang dengan benar dan path sudah diatur di environment variable.
-* Jalankan **flutter doctor** untuk memeriksa apakah semua requirement sudah terpenuhi.
+Proyek ini dibuat khusus untuk kebutuhan **praktikum & tugas kuliah**.
