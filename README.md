@@ -1,16 +1,71 @@
-# kuis_pam_teori
+# 🌟 Kuis PAM - Aplikasi Mobile
 
-A new Flutter project.
+Kuis PAM adalah aplikasi mobile yang dikembangkan menggunakan **Flutter** untuk mendukung pembelajaran dan latihan Kuis pada mata kuliah **Pemrograman Aplikasi Mobile (PAM)**. Aplikasi ini dirancang untuk membantu mahasiswa memahami materi PAM melalui kuis interaktif dan responsif.
 
-## Getting Started
+📦 **Instalasi & Deployment**
 
-This project is a starting point for a Flutter application.
+Sebelum memulai, pastikan Anda telah menginstal perangkat lunak berikut:
 
-A few resources to get you started if this is your first Flutter project:
+* **Git** – untuk meng-clone repository dari GitHub
+* **Flutter SDK** – untuk membangun dan menjalankan aplikasi Flutter
+* **Code Editor** – disarankan menggunakan Visual Studio Code
+* **Android Studio / Emulator / Device** – untuk menjalankan aplikasi di Android/iOS
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 1. Clone Repository
+
+Clone repository proyek ke komputer lokal Anda:
+
+```bash
+git clone https://github.com/username/kuis-pam.git
+cd kuis-pam
+```
+
+Buka folder proyek menggunakan **Visual Studio Code** atau editor favorit Anda.
+
+---
+
+## 2. Instalasi Dependency
+
+Instal semua dependency Flutter dengan menjalankan:
+
+```bash
+flutter pub get
+```
+
+Perintah ini akan mengunduh semua package yang dibutuhkan oleh proyek.
+
+---
+
+## 3. Menjalankan Aplikasi
+
+Jalankan aplikasi di emulator atau device fisik dengan perintah:
+
+```bash
+flutter run
+```
+
+Jika Anda memiliki lebih dari satu device atau emulator, Anda dapat menentukan device tertentu dengan:
+
+```bash
+flutter run -d <device_id>
+```
+
+---
+
+## 4. Struktur Proyek
+
+* **lib/** – folder utama berisi semua source code Flutter
+* **assets/** – folder untuk menyimpan gambar, ikon, dan file statis lain
+* **pubspec.yaml** – file konfigurasi dependency Flutter
+
+---
+
+## 5. Catatan
+
+* Pastikan **Flutter SDK** sudah terpasang dengan benar dan path sudah diatur di environment variable.
+* Jalankan **flutter doctor** untuk memeriksa apakah semua requirement sudah terpenuhi.
+
+
+Apakah mau saya buatkan versi itu juga?
