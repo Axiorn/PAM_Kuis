@@ -66,6 +66,3 @@ flutter run -d <device_id>
 
 * Pastikan **Flutter SDK** sudah terpasang dengan benar dan path sudah diatur di environment variable.
 * Jalankan **flutter doctor** untuk memeriksa apakah semua requirement sudah terpenuhi.
-
-
-Apakah mau saya buatkan versi itu juga?
