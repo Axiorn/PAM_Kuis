@@ -1,7 +1,6 @@
 # 🌟 Kuis PAM - Aplikasi Mobile
 
-**Kuis PAM** adalah aplikasi mobile sederhana yang dibuat untuk kebutuhan pembelajaran mata kuliah **Pemrograman Aplikasi Mobile (PAM)**.  
-Aplikasi ini berisi latihan kuis interaktif yang membantu mahasiswa memahami materi PAM dengan cara yang lebih menyenangkan.
+**Kuis PAM** adalah aplikasi mobile sederhana yang dibuat untuk kebutuhan pembelajaran mata kuliah **Pemrograman Aplikasi Mobile (PAM)**. Aplikasi ini berisi latihan kuis interaktif yang membantu mahasiswa memahami materi PAM dengan cara yang lebih menyenangkan.
 
 ---
 
@@ -9,7 +8,7 @@ Aplikasi ini berisi latihan kuis interaktif yang membantu mahasiswa memahami mat
 
 | Tampilan Home Page | Tampilan Profile |
 |--------------------|------------------|
-| <img src="https://github.com/user-attachments/assets/65d365d4-1d55-4913-9b46-4d9f40539aeb" alt="Homepage" width="30%"/> | <img src="https://github.com/user-attachments/assets/f8a946c9-99f1-4e7f-862c-f41addef0276" alt="Profile" width="30%"/> |
+| <center><img src="https://github.com/user-attachments/assets/65d365d4-1d55-4913-9b46-4d9f40539aeb" alt="Homepage" width="30%"/> | <img src="https://github.com/user-attachments/assets/f8a946c9-99f1-4e7f-862c-f41addef0276" alt="Profile" width="30%"/> |
 
 | Tampilan Konversi WIB | Tampilan Cek Hari |
 |------------------------|-------------------|
@@ -17,7 +16,7 @@ Aplikasi ini berisi latihan kuis interaktif yang membantu mahasiswa memahami mat
 
 | Tampilan Hitung Piramida | Tampilan Hitung Piramida |
 |------------------------|------------------------|
-| <img src="https://github.com/user-attachments/assets/cd12e6b1-f6b3-4146-bb7c-4509ede390e3" alt="Hitung Piramida" width="30%"/> | <img src="https://github.com/user-attachments/assets/cd12e6b1-f6b3-4146-bb7c-4509ede390e3" alt="Hitung Piramida" width="30%"/> |
+| <img src="https://github.com/user-attachments/assets/cd12e6b1-f6b3-4146-bb7c-4509ede390e3" alt="Hitung Piramida" width="30%"/> | <img src="https://github.com/user-attachments/assets/cd12e6b1-f6b3-4146-bb7c-4509ede390e3" alt="Hitung Piramida" width="30%"/></center> |
 
 ---
 
