@@ -9,19 +9,19 @@ Aplikasi ini berisi latihan kuis interaktif yang membantu mahasiswa memahami mat
 
 ### Tampilan Home Page & Profile
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65d365d4-1d55-4913-9b46-4d9f40539aeb" alt="Homepage" width="250px"/>
-  <img src="https://github.com/user-attachments/assets/f8a946c9-99f1-4e7f-862c-f41addef0276" alt="Profile" width="250px"/>
+  <img src="https://github.com/user-attachments/assets/65d365d4-1d55-4913-9b46-4d9f40539aeb" alt="Homepage" width="200px"/>
+  <img src="https://github.com/user-attachments/assets/f8a946c9-99f1-4e7f-862c-f41addef0276" alt="Profile" width="200px"/>
 </p>
 
 ### Tampilan Konversi WIB & Cek Hari
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/47745b7c-80c7-4c27-adf5-e68d1c1abda4" alt="Konversi WIB" width="250px"/>
-  <img src="https://github.com/user-attachments/assets/f5ebb716-d566-4ae0-b64e-dd28a086d0d4" alt="Cek Hari" width="250px"/>
+  <img src="https://github.com/user-attachments/assets/47745b7c-80c7-4c27-adf5-e68d1c1abda4" alt="Konversi WIB" width="200px"/>
+  <img src="https://github.com/user-attachments/assets/f5ebb716-d566-4ae0-b64e-dd28a086d0d4" alt="Cek Hari" width="200px"/>
 </p>
 
 ### Tampilan Hitung Piramida
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cd12e6b1-f6b3-4146-bb7c-4509ede390e3" alt="Hitung Piramida" width="250px"/>
+  <img src="https://github.com/user-attachments/assets/cd12e6b1-f6b3-4146-bb7c-4509ede390e3" alt="Hitung Piramida" width="200px"/>
 </p>
 
 ---
