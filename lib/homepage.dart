@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage> {
     ProfileUser(),
   ];
   final List<String> _titles = [
-    'Kuis PAM',
+    'Menu Kuis PAM',
     'Profile',
   ];
   void _onItemTapped(int index) {
