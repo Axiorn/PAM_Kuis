@@ -9,8 +9,8 @@ Aplikasi ini berisi latihan kuis interaktif yang membantu mahasiswa memahami mat
 
 ### Tampilan Home Page & Profile
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65d365d4-1d55-4913-9b46-4d9f40539aeb" alt="Homepage" width="30%"/>
-  <img src="https://github.com/user-attachments/assets/f8a946c9-99f1-4e7f-862c-f41addef0276" alt="Profile" width="30%"/>
+  <img src="https://github.com/user-attachments/assets/65d365d4-1d55-4913-9b46-4d9f40539aeb" alt="Homepage" width="100px"/>
+  <img src="https://github.com/user-attachments/assets/f8a946c9-99f1-4e7f-862c-f41addef0276" alt="Profile" width="50px"/>
 </p>
 
 ### Tampilan Konversi WIB & Cek Hari
