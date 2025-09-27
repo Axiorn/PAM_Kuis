@@ -15,9 +15,9 @@ Aplikasi ini berisi latihan kuis interaktif yang membantu mahasiswa memahami mat
 |------------------------|-------------------|
 | <img src="https://github.com/user-attachments/assets/47745b7c-80c7-4c27-adf5-e68d1c1abda4" alt="Konversi WIB" width="30%"/> | <img src="https://github.com/user-attachments/assets/f5ebb716-d566-4ae0-b64e-dd28a086d0d4" alt="Cek Hari" width="30%"/> |
 
-| Tampilan Hitung Piramida |  |
-|------------------------|-------------------|
-| <img src="https://github.com/user-attachments/assets/cd12e6b1-f6b3-4146-bb7c-4509ede390e3" alt="Hitung Piramida" width="30%"/> |  |
+| Tampilan Hitung Piramida | Tampilan Hitung Piramida |
+|------------------------|------------------------|
+| <img src="https://github.com/user-attachments/assets/cd12e6b1-f6b3-4146-bb7c-4509ede390e3" alt="Hitung Piramida" width="30%"/> | <img src="https://github.com/user-attachments/assets/cd12e6b1-f6b3-4146-bb7c-4509ede390e3" alt="Hitung Piramida" width="30%"/> |
 
 ---
 
