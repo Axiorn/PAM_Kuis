@@ -5,6 +5,20 @@ Aplikasi ini berisi latihan kuis interaktif yang membantu mahasiswa memahami mat
 
 ---
 
+## 🎯 Tujuan Proyek
+
+* Mendukung pembelajaran interaktif pada mata kuliah PAM  
+* Memberikan latihan kuis sederhana berbasis mobile  
+* Sebagai media praktek pengembangan aplikasi Flutter  
+
+---
+
+## 👨‍💻 Catatan
+
+Proyek ini dibuat khusus untuk kebutuhan **praktikum & tugas kuliah**.
+
+---
+
 ## 📱 Preview Aplikasi
 
 ### Tampilan Home Page & Profile
@@ -23,17 +37,3 @@ Aplikasi ini berisi latihan kuis interaktif yang membantu mahasiswa memahami mat
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cd12e6b1-f6b3-4146-bb7c-4509ede390e3" alt="Hitung Piramida" width="200px"/>
 </p>
-
----
-
-## 🎯 Tujuan Proyek
-
-* Mendukung pembelajaran interaktif pada mata kuliah PAM  
-* Memberikan latihan kuis sederhana berbasis mobile  
-* Sebagai media praktek pengembangan aplikasi Flutter  
-
----
-
-## 👨‍💻 Catatan
-
-Proyek ini dibuat khusus untuk kebutuhan **praktikum & tugas kuliah**.
